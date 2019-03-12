@@ -10,7 +10,7 @@ else {
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "mko0nji9",
+    password: "",
     database: "todos_db"
   });
 }
