@@ -1,2 +1,0 @@
-# BurgerApp
-Burger Application
